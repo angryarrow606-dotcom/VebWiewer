@@ -23,3 +23,12 @@ local.properties
 build/
 .gradle/
 .idea/
+
+*.jks
+*.keystore
+*.apk
+keystore.properties
+local.properties
+build/
+.gradle/
+.idea/
